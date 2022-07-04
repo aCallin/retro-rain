@@ -1,0 +1,16 @@
+This application uses these sounds from freesound:
+"Rain on Windows, Interior, B" by user "InspectorJ" ( https://freesound.org/s/346641/ ) licensed under CC BY 4.0
+"Light rain" by user "morsine" ( https://freesound.org/s/607070/ ) licensed under CC0 1.0
+"180806 Thunder, distant rolling boomy, rain drops TORONTO" by user "TRP" ( https://freesound.org/s/572443/ ) licensed under CC0 1.0
+"Silencyo_CC_Fire in Fireplace_Close Up_Reverberant" by user "silencyo" ( https://freesound.org/s/81800/ ) licensed under CC0 1.0
+
+This application uses these sounds from Mixkit:
+"Forest birds chirp ambiance" ( https://mixkit.co/free-sound-effects/ambience/ )
+"River water flow and surroundings" ( https://mixkit.co/free-sound-effects/nature/ )
+"Wild light wind" ( https://mixkit.co/free-sound-effects/wind/ )
+
+This application uses these fonts from 1001 Fonts:
+"Press Start Font Family" by user "codeman38" ( https://www.1001fonts.com/press-start-font.html )
+
+This application uses these sprites from itch.io:
+"Roret Cursor" by user "Lintnaya" ( https://lintnaya.itch.io/roret-cursor )
